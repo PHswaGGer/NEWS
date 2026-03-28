@@ -1,0 +1,9 @@
+{
+  "name": "markets-morning-post",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "digest": "node scripts/morning-digest.mjs",
+    "digest:dry": "node scripts/morning-digest.mjs --dry-run"
+  }
+}

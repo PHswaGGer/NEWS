@@ -1,0 +1,93 @@
+[
+  {
+    "id": "yahoo",
+    "label": "Yahoo Finance",
+    "labelKo": "야후 파이낸스 (미국 증시·경제)",
+    "region": "na",
+    "url": "https://finance.yahoo.com/news/rssindex"
+  },
+  {
+    "id": "marketwatch",
+    "label": "MarketWatch",
+    "labelKo": "마켓워치 (미국 시장 뉴스)",
+    "region": "na",
+    "url": "https://feeds.marketwatch.com/marketwatch/topstories/"
+  },
+  {
+    "id": "cnbc",
+    "label": "CNBC",
+    "labelKo": "CNBC (미국 방송 경제)",
+    "region": "na",
+    "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+  },
+  {
+    "id": "financialpost",
+    "label": "Financial Post (Markets)",
+    "labelKo": "파이낸셜 포스트 (캐나다 시장)",
+    "region": "na",
+    "url": "https://financialpost.com/category/news/fp-markets/feed/"
+  },
+  {
+    "id": "nyt",
+    "label": "NYT Business",
+    "labelKo": "뉴욕타임스 (비즈니스)",
+    "region": "na",
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+  },
+  {
+    "id": "seekingalpha",
+    "label": "Seeking Alpha",
+    "labelKo": "시킹 알파 (투자 의견·분석)",
+    "region": "na",
+    "url": "https://seekingalpha.com/feed.xml"
+  },
+  {
+    "id": "investing",
+    "label": "Investing.com (stocks)",
+    "labelKo": "인베스팅닷컴 (주식 뉴스)",
+    "region": "na",
+    "url": "https://www.investing.com/rss/news_301.rss"
+  },
+  {
+    "id": "gnews_housing",
+    "label": "Google News — Canada housing",
+    "labelKo": "구글 뉴스 (캐나다 주택·부동산)",
+    "region": "ca_housing",
+    "url": "https://news.google.com/rss/search?q=Canada+housing+market+OR+Canadian+real+estate&hl=en-CA&gl=CA&ceid=CA:en"
+  },
+  {
+    "id": "gnews_mortgage",
+    "label": "Google News — Canada mortgage",
+    "labelKo": "구글 뉴스 (캐나다 모기지)",
+    "region": "ca_mortgage",
+    "url": "https://news.google.com/rss/search?q=Canada+mortgage+rates+OR+Canadian+mortgage&hl=en-CA&gl=CA&ceid=CA:en"
+  },
+  {
+    "id": "gnews_appraisal",
+    "label": "Google News — Canada appraisal",
+    "labelKo": "구글 뉴스 (캐나다 감정 평가)",
+    "region": "ca_appraisal",
+    "url": "https://news.google.com/rss/search?q=Canada+property+appraisal+OR+real+estate+appraisal+Canada&hl=en-CA&gl=CA&ceid=CA:en"
+  },
+  {
+    "id": "scmp",
+    "label": "South China Morning Post",
+    "labelKo": "사우스차이나모닝포스트 (홍콩·아시아)",
+    "region": "cn",
+    "url": "https://www.scmp.com/rss/5/feed/"
+  },
+  {
+    "id": "et",
+    "label": "Economic Times (Markets)",
+    "labelKo": "이코노믹타임스 (인도 증시)",
+    "region": "in",
+    "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms"
+  },
+  {
+    "id": "livemint",
+    "label": "Mint (Markets)",
+    "labelKo": "민트 (인도 시장)",
+    "region": "in",
+    "url": "https://www.livemint.com/rss/markets"
+  }
+]
